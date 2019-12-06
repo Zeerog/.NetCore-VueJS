@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\bin\Debug\netcoreapp3.1\13.AverageOfFive.exe
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\bin\Debug\netcoreapp3.1\13.AverageOfFive.deps.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\bin\Debug\netcoreapp3.1\13.AverageOfFive.runtimeconfig.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\bin\Debug\netcoreapp3.1\13.AverageOfFive.runtimeconfig.dev.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\bin\Debug\netcoreapp3.1\13.AverageOfFive.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\bin\Debug\netcoreapp3.1\13.AverageOfFive.pdb
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\obj\Debug\netcoreapp3.1\13.AverageOfFive.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\obj\Debug\netcoreapp3.1\13.AverageOfFive.AssemblyInfo.cs
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\obj\Debug\netcoreapp3.1\13.AverageOfFive.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\13.AverageOfFive\obj\Debug\netcoreapp3.1\13.AverageOfFive.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\bin\Debug\netcoreapp3.1\12.SquaredNumber.exe
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\bin\Debug\netcoreapp3.1\12.SquaredNumber.deps.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\bin\Debug\netcoreapp3.1\12.SquaredNumber.runtimeconfig.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\bin\Debug\netcoreapp3.1\12.SquaredNumber.runtimeconfig.dev.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\bin\Debug\netcoreapp3.1\12.SquaredNumber.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\bin\Debug\netcoreapp3.1\12.SquaredNumber.pdb
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\obj\Debug\netcoreapp3.1\12.SquaredNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\obj\Debug\netcoreapp3.1\12.SquaredNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\obj\Debug\netcoreapp3.1\12.SquaredNumber.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\12.SquaredNumber\obj\Debug\netcoreapp3.1\12.SquaredNumber.pdb

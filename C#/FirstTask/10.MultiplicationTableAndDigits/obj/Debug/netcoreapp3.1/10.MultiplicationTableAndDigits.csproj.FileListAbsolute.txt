@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\bin\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.exe
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\bin\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.deps.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\bin\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.runtimeconfig.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\bin\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.runtimeconfig.dev.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\bin\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\bin\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.pdb
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\obj\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\obj\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.AssemblyInfo.cs
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\obj\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\10.MultiplicationTableAndDigits\obj\Debug\netcoreapp3.1\10.MultiplicationTableAndDigits.pdb

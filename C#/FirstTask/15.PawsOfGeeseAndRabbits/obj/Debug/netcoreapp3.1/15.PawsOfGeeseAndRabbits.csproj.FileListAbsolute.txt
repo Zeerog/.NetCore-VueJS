@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\bin\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.exe
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\bin\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.deps.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\bin\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.runtimeconfig.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\bin\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.runtimeconfig.dev.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\bin\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\bin\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.pdb
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\obj\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\obj\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.AssemblyInfo.cs
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\obj\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\15.PawsOfGeeseAndRabbits\obj\Debug\netcoreapp3.1\15.PawsOfGeeseAndRabbits.pdb

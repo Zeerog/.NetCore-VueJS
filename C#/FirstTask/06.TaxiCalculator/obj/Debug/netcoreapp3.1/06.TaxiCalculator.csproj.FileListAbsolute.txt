@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\bin\Debug\netcoreapp3.1\06.TaxiCalculator.exe
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\bin\Debug\netcoreapp3.1\06.TaxiCalculator.deps.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\bin\Debug\netcoreapp3.1\06.TaxiCalculator.runtimeconfig.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\bin\Debug\netcoreapp3.1\06.TaxiCalculator.runtimeconfig.dev.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\bin\Debug\netcoreapp3.1\06.TaxiCalculator.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\bin\Debug\netcoreapp3.1\06.TaxiCalculator.pdb
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\obj\Debug\netcoreapp3.1\06.TaxiCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\obj\Debug\netcoreapp3.1\06.TaxiCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\obj\Debug\netcoreapp3.1\06.TaxiCalculator.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\06.TaxiCalculator\obj\Debug\netcoreapp3.1\06.TaxiCalculator.pdb
