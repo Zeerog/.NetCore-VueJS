@@ -30,6 +30,7 @@ namespace _8.Lottery
                 {
                     Console.Write("Сожалею, но у вас не хватает монет");
                     System.Threading.Thread.Sleep(2000);
+                    Console.Clear();
                     continue;
                 }
                 dice = rnd.Next(1, 12);
