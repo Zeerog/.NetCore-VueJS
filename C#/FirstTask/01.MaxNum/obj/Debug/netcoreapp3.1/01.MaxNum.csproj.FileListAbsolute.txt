@@ -8,3 +8,4 @@ C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\01.MaxNum\obj\Debu
 C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\01.MaxNum\obj\Debug\netcoreapp3.1\01.MaxNum.AssemblyInfo.cs
 C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\01.MaxNum\obj\Debug\netcoreapp3.1\01.MaxNum.dll
 C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\01.MaxNum\obj\Debug\netcoreapp3.1\01.MaxNum.pdb
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\FirstTask\01.MaxNum\obj\Debug\netcoreapp3.1\01.MaxNum.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\bin\Debug\netcoreapp3.1\01.Address.exe
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\bin\Debug\netcoreapp3.1\01.Address.deps.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\bin\Debug\netcoreapp3.1\01.Address.runtimeconfig.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\bin\Debug\netcoreapp3.1\01.Address.runtimeconfig.dev.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\bin\Debug\netcoreapp3.1\01.Address.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\bin\Debug\netcoreapp3.1\01.Address.pdb
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\obj\Debug\netcoreapp3.1\01.Address.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\obj\Debug\netcoreapp3.1\01.Address.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\obj\Debug\netcoreapp3.1\01.Address.AssemblyInfo.cs
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\obj\Debug\netcoreapp3.1\01.Address.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\01.Address\obj\Debug\netcoreapp3.1\01.Address.pdb

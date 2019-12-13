@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\bin\Debug\netcoreapp3.1\06.Converter.exe
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\bin\Debug\netcoreapp3.1\06.Converter.deps.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\bin\Debug\netcoreapp3.1\06.Converter.runtimeconfig.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\bin\Debug\netcoreapp3.1\06.Converter.runtimeconfig.dev.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\bin\Debug\netcoreapp3.1\06.Converter.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\bin\Debug\netcoreapp3.1\06.Converter.pdb
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\obj\Debug\netcoreapp3.1\06.Converter.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\obj\Debug\netcoreapp3.1\06.Converter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\obj\Debug\netcoreapp3.1\06.Converter.AssemblyInfo.cs
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\obj\Debug\netcoreapp3.1\06.Converter.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\06.Converter\obj\Debug\netcoreapp3.1\06.Converter.pdb

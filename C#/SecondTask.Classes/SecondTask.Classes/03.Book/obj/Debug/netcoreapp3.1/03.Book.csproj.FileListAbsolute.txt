@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\bin\Debug\netcoreapp3.1\03.Book.exe
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\bin\Debug\netcoreapp3.1\03.Book.deps.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\bin\Debug\netcoreapp3.1\03.Book.runtimeconfig.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\bin\Debug\netcoreapp3.1\03.Book.runtimeconfig.dev.json
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\bin\Debug\netcoreapp3.1\03.Book.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\bin\Debug\netcoreapp3.1\03.Book.pdb
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\obj\Debug\netcoreapp3.1\03.Book.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\obj\Debug\netcoreapp3.1\03.Book.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\obj\Debug\netcoreapp3.1\03.Book.AssemblyInfo.cs
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\obj\Debug\netcoreapp3.1\03.Book.dll
+C:\Users\User\Desktop\Таран Дима\SOLLVE\C#\SecondTask.Classes\SecondTask.Classes\03.Book\obj\Debug\netcoreapp3.1\03.Book.pdb
