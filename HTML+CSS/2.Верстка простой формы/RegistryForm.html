@@ -1,0 +1,98 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Checkout Form</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+	<form action="">
+		<header>
+			<h1>Checkout form</h1>   
+		</header>
+		<main>
+			<hr noshade="" color="e6e7ec">
+			<div class="block">
+				<div class="main-info left input-group input-group-icon">
+					<input type="text" placeholder="First name" name="FirstName" required>
+					<div class="input-icon"><i class="fa fa-user"></i></div>
+				</div>
+				<div class="main-info right input-group input-group-icon">
+					<input type="text" placeholder="Last name" name="LastName" required> 
+					<div class="input-icon"><i class="fa fa-user"></i></div>
+				</div>
+				<div class="main-info left top-margin input-group input-group-icon">
+					<input type="text" placeholder="E-mail" name="E-mail" required> 
+					<div class="input-icon"><i class="fa fa-envelope"></i></div>
+				</div>
+				<div class="main-info right top-margin input-group input-group-icon">
+					<input type="text" placeholder="Phone" name="Phone" required> 
+					<div class="input-icon"><i class="fa fa-phone"></i></div>
+				</div>
+    		    <div class="clearfix"></div>
+			</div>
+			<hr noshade="" color="e6e7ec">
+			<div class="block">
+				<div class="container">
+					<div class="left">
+						<select name="Country" size="1">
+							<option hidden="">Country</option>
+							<option value="australia">Australia</option>
+							<option value="canada">Canada</option>
+							<option value="usa">USA</option>
+						</select>
+					</div>	
+				</div>
+				<input type="text" class="city" placeholder="City" name="City" required> 
+				<input type="text" class="postcode right" placeholder="Post code" name="PostCode" required> 
+				<input type="text" class="full top-margin" placeholder="Address" name="Address" required> 
+				<textarea name="AddInfo" class="top-margin" style="width:100%" rows="3" placeholder="Additional info"></textarea>
+			</div>
+			<hr noshade="" color="e6e7ec">
+			<div class="block">
+				<div class="radio">
+					<input type="radio" name="Card" id="C1" value="1" checked>
+					<label for="C1" class="radio-label">Visa</label>
+				</div>
+				<div class="radio">
+					<input type="radio" name="Card" id="C2" value="2">
+					<label for="C2" class="radio-label">MasterCard</label>
+				</div>
+				<div class="radio">
+					<input type="radio" name="Card" id="C3" value="3">
+					<label for="C3" class="radio-label">PayPal</label>
+				</div>
+				<input type="text" class="full top-margin" placeholder="Name on card" name="NameCard" required> 
+				<input type="text" class="card-num top-margin" placeholder="Card number" name="CardNumber" required> 
+				<input type="text" class="cvv right top-margin" placeholder="CVV2" name="CVV2" required> 
+				<div class="left text">Expiration date</div>
+				<div class="left container month">
+					<div>
+						<select name="CardMonth">	
+							<option value="" hidden="">Month</option>
+							<option value="01">January</option>
+							<option value="02">February</option>
+							<option value="03" >March</option>
+							<option value="04">April</option>
+							<option value="05">May</option>
+							<option value="06">June</option>
+							<option value="07">July</option>
+							<option value="08">August</option>
+							<option value="09">September</option>
+							<option value="10">October</option>
+							<option value="11">November</option>
+							<option value="12" >December</option>
+						</select>
+					</div>
+				</div>
+				<input type="text" class="right top-margin year" placeholder="Year" name="year" required> 
+			</div>
+		</main>
+		<hr noshade="" color="d2d1d7">
+		<footer>
+			<input type="submit" value="Continue">
+		</footer>
+	</form>
+</body> 
