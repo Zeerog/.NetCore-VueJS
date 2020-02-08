@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.AbstractHandler", "01.AbstractHandler\01.AbstractHandler.csproj", "{E028DF25-FFE6-4B2C-A95C-A172F4DFA8EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Player", "02.Player\02.Player.csproj", "{EC2E1719-80DD-4FEA-94EB-12D3EECD1F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E028DF25-FFE6-4B2C-A95C-A172F4DFA8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E028DF25-FFE6-4B2C-A95C-A172F4DFA8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E028DF25-FFE6-4B2C-A95C-A172F4DFA8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E028DF25-FFE6-4B2C-A95C-A172F4DFA8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2E1719-80DD-4FEA-94EB-12D3EECD1F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2E1719-80DD-4FEA-94EB-12D3EECD1F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2E1719-80DD-4FEA-94EB-12D3EECD1F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2E1719-80DD-4FEA-94EB-12D3EECD1F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E853355-356F-4652-9933-7B0E52DC8C29}
+	EndGlobalSection
+EndGlobal
