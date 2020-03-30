@@ -47,11 +47,20 @@ function onMouseMove(e) {
     dragObject.shiftY = dragObject.downY - coords.top;
 
     startDrag(e); // отобразить начало переноса
+    
   }
 
   // отобразить перенос объекта при каждом движении мыши
   dragObject.avatar.style.left = e.pageX - dragObject.shiftX -10 + 'px';
   dragObject.avatar.style.top = e.pageY - dragObject.shiftY -10 + 'px';
+
+  var dropElem = findDroppable(e);
+  if (!dropElem) {
+    dropZone.parentNode.removeChild(dropZone);
+  } else {
+    addDropZone(dragObject, dropElem);
+  }
+  
 
   return false;
 }
@@ -60,7 +69,7 @@ function onMouseUp(e) {
   if (dragObject.avatar) { // если перенос идет
     finishDrag(e);
   }
-
+  addItem(e);
   // перенос либо не начинался, либо завершился
   // в любом случае очистим "состояние переноса" dragObject
   dragObject = {};
@@ -68,7 +77,7 @@ function onMouseUp(e) {
 
 function finishDrag(e) {
   var dropElem = findDroppable(e);
-
+  dragObject.avatar.classList.remove('is-moving');
   if (!dropElem) {
     onDragCancel(dragObject);
   } else {
@@ -79,6 +88,7 @@ function finishDrag(e) {
 function createAvatar(e) {
   // запомнить старые свойства, чтобы вернуться к ним при отмене переноса
   var avatar = dragObject.elem;
+  avatar.classList.add('is-moving');
   var old = {
     parent: avatar.parentNode,
     nextSibling: avatar.nextSibling,
@@ -99,12 +109,12 @@ function createAvatar(e) {
 
   avatar.insert = function(dropElem) {
     dropElem.before(avatar);
+    dropElem.parentNode.removeChild(dropElem);
     avatar.style.position = old.position;
     avatar.style.left = old.left;
     avatar.style.top = old.top;
     avatar.style.zIndex = old.zIndex
   };
-
   return avatar;
 }
 
@@ -131,8 +141,29 @@ function findDroppable(event) {
     // такое возможно, если курсор мыши "вылетел" за границу окна
     return null;
   }
+  return elem.closest('.droppable');
+}
 
-  return elem.closest('.drag-item');
+function addDropZone(dragObject, dropElem){
+  dropZone = dropElem.closest('.drop-zone');
+  if(dropZone == dropElem)
+    return
+  dropZone = document.createElement("textarea");
+  dropZone.classList.add('drag-item'); 
+  dropZone.classList.add('drop-zone'); 
+  dropZone.classList.add('droppable'); 
+  dropElem.before(dropZone);
+  dropZone.style.height = dragObject.avatar.style.height;
+}
+
+function addItem(e){
+  dropElem = e.target.closest('.add-button');
+  if(dropElem){
+    item = document.createElement("textarea");
+    item.classList.add('drag-item'); 
+    item.classList.add('droppable'); 
+    dropElem.before(item);
+  }
 }
 
 document.onmousemove = onMouseMove;
