@@ -145,9 +145,14 @@ function findDroppable(event) {
 }
 
 function addDropZone(dragObject, dropElem){
+  
   dropZone = dropElem.closest('.drop-zone');
   if(dropZone == dropElem)
     return
+  dropZone = document.querySelector('.drop-zone');
+  if(dropZone){
+    dropZone.parentNode.removeChild(dropZone);
+  }
   dropZone = document.createElement("textarea");
   dropZone.classList.add('drag-item'); 
   dropZone.classList.add('drop-zone'); 
