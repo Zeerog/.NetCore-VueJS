@@ -51,10 +51,10 @@ namespace _02.ChatServer
                                     {
                                         if (j != i && clients[j].userName != "")
                                         {
-                                            clients[j].SendMessage(clients[i].userName + " joined to chat");
+                                            clients[j].SendMessage(clients[i].userName + " joined to chat\n");
                                         }
                                     }
-                                    Console.WriteLine(clients[i].userName + " joined to chat");
+                                    Console.Write(clients[i].userName + " joined to chat\n");
                                 }
                             }
                             else
@@ -66,10 +66,10 @@ namespace _02.ChatServer
                                     {
                                         if (j != i && clients[j].userName != "")
                                         {
-                                            clients[j].SendMessage(clients[i].userName + " leave chat");
+                                            clients[j].SendMessage(clients[i].userName + " leave chat\n");
                                         }
                                     }
-                                    Console.WriteLine(clients[i].userName + " leave chat");
+                                    Console.Write(clients[i].userName + " leave chat\n");
                                     clients[i].Stream.Close();
                                     clients[i].client.Close();
                                     clients.RemoveAt(i);
@@ -77,7 +77,7 @@ namespace _02.ChatServer
                                 }
                                 else
                                 {
-                                    message = clients[i].userName + ": " + message;
+                                    message = clients[i].userName + ": " + message + "\n";
                                     for (int j = 0; j < clients.Count; j++)
                                     {
                                         if (j != i && clients[j].userName != "")
@@ -85,7 +85,7 @@ namespace _02.ChatServer
                                             clients[j].SendMessage(message);
                                         }
                                     }
-                                    Console.WriteLine(message);
+                                    Console.Write(message);
                                 }
                             }
                         }

@@ -32,7 +32,7 @@ namespace _01.ChatClient
                     i++;
                     if (client.Available != 0)
                     {
-                        Console.WriteLine(ReceiveMessage());
+                        Console.Write(ReceiveMessage());
                     }
                 }
             }
